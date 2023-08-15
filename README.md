@@ -1,0 +1,2 @@
+# advancedwp
+ WordPress custom theme
